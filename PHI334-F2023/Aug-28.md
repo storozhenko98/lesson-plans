@@ -1,6 +1,6 @@
 # Lesson Plan August 28, PHI334
 
-Today, we begin that part of our class where we completely and thoroughly examine what <<business>> actually is. This class is called business ethics, and I do not see how we can do an ethic of something unless we break down programmatically, as it were, what that something is. 
+Today, we begin that part of our class where we completely and thoroughly examine what business actually is. This class is called business ethics, and I do not see how we can do an ethic of something unless we break down programmatically, as it were, what that something is. 
 
 Philosophy is a multiplicity--there are different fields within philosophy that ask different questions. Ontology is that field that examines the nature of being. For example, what makes me who I am is an ontological question since it is a question about the very essence of my being. Another word for this is metaphysics. 
 
@@ -26,7 +26,7 @@ The same logic, I assert, applies to business and hence it is important to look 
 
 There is another point that I wish to make about the importance of looking at business, specifically at the variation of business over time, in this context. Often, one mistakes the way in which things are today for the way in which they have always been. Foucault writes about this in his many other books. 
 
-For example, he writes about discipline and punishment. We tend to think today that the carceral system has been the way that it is forever, or perhaps that it used to be worse but now it is better. However, today we lock prisoners up, nobody sees them, nobody knows about them, and it is <<<over there>>> and not here. But carceration used to be different, it used to be such that punishment was public, for example. 
+For example, he writes about discipline and punishment. We tend to think today that the carceral system has been the way that it is forever, or perhaps that it used to be worse but now it is better. However, today we lock prisoners up, nobody sees them, nobody knows about them, and it is over there and not here. But carceration used to be different, it used to be such that punishment was public, for example. 
 
 Another notion he writes about is intimacy between adults. Intimacy the way it exists today is entirely the product of 1800s science, and things were very different prior. In other words, and to make this brief, the idea is that it is important to study the historical manifestation of a social practice because it allows you to realize that the way in which it is today is no the way in which it has always been. 
 
