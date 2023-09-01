@@ -1,5 +1,3 @@
-Here is an extended version of the lesson plan to approximately 2000 words:
-
 # PHI334 Lesson Plan: September 1 | Transition to Industry
 
 Today we will discourse on the transition from business in antiquity to business in the industrial age. We will talk about industrial business on Wednesday, but for today, I want to talk about the transitory times. By this, I mean roughly from around 100BC to 1700AD. Around that time. 
