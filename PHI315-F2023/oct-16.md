@@ -1,0 +1,35 @@
+# PHI315 LP: AR & VR Metaphysics 
+
+So last time we talked about how, traditionally, philosophers have thought that the reality around us, the reality as it appears, is illusory. This, however, began to change around the 1700s with the success of empiricism and the birth of natural science. Empiricism, as I said before, is the idea that all knowledge comes from experience.
+
+## Kant 
+
+But the issues remain--we obviously have senses, and so the world that we experience is experienced through sensations. Because it is filtered, as it were, it becomes a question of what it is exactly that we know. In other words, suppose that empiricism is true and that we do indeed learn everything via experiences and senses--what is to say that what we learn is not just the way in which this shared artificial hallucination works instead of reality as such? 
+
+This is where the systematic philosophy of Immanuel Kant comes in. In brief, Kant allows for the distinction between the world of appearance (Phenomena) and the world of things in themselves (Noumena). The noumena is unknowable, since it is the ground of phenomena. But, the phenomena is constituted in accordance to universal rules, and though it is in a sense constructed, the way in which it is constructed ensures a certain reality for it. In his later works, he grants that we can have some limit-knowledge of the noumenal, such as when it comes to freedom and purpose. But that is beside the point. 
+
+What matters is that the world of appearance, the world around you, though it is constructed by all of us, this world is still real, since (1) the noumena is the ground, and (2) we construct it in the exact same way structurally, and (3) the noumena is unknowable anyway. So, it follows that the world around us is as real as any, and the notion of artificiality is dispensed with. 
+
+## Post Kant
+
+The Kant stuff is an important point. That being said, practically, post Kant, science, specifically its success, accelerated at such a rapid rate and led to so many inventions, that, inductively, we can say that what it reveals and the theories it constructs in some sense map onto the structure of reality. Think about it--planes fly, we went to the moon, we can now basically model human cognition and so on. Some make the mistake of thinking that science reveals the real nature of reality, which begs the question, if a theory changes, and therefore can change again, does the nature of reality change? Probably not, rather, probably, we were just wrong, unless the universe just happened to change randomly. So, after 1800s, we generally tend to think that we live in a real reality and that it is just our knowledge that sometimes lackks, but that it is directed and is about the world somehow. 
+
+## Nozick Experience Machine 
+
+What follows is a repetition of Nozick's "Experience Machine" thought experiment in his *Anarchy, State, and Utopia*. The idea has political philosophy purposes in his work, but for us, it is going to serve as a point about AR and VR. Specifically, about trying to nail down what makes people nowadays think that AR and VR is somehow fake. 
+
+Consider a hypothetical device: the Experience Machine. This machine has the capability to produce any desired experience. When connected, individuals can undergo experiences ranging from monumental achievements to deeply personal moments. Within the machine, these simulations are indistinguishable from real-world occurrences. Given this premise, the critical question arises: would you opt to live within this machine, prioritizing these constructed experiences over real-world events?
+
+According to hedonistic principles, which prioritize pleasure as the primary intrinsic good, the choice seems clear. The machine provides a maximization of pleasurable experiences, and therefore, from a hedonistic perspective, one should choose to connect. However, empirical observations indicate that many people would decline the opportunity. This resistance suggests that pleasure might not be the sole variable in evaluating the worthiness of a life.
+
+The reluctance to embrace the Experience Machine indicates a valuation of authentic experiences. The distinction isn't merely between perceived achievement and actual achievement but involves a deeper epistemological commitment to the value of real-world interactions and events. For example, mastering a skill isn't just about the end experience; it encompasses the genuine process of acquisition, the challenges faced, and the actual growth achieved.
+
+Furthermore, the relational aspect introduces another layer of complexity. Genuine relationships, rooted in shared reality and mutual understanding, provide a unique value that the Experience Machine might not replicate. Even if simulated relationships within the machine are devoid of conflict and filled with pleasurable interactions, their inauthentic nature detracts from their perceived value.
+
+This thought experiment prompts a reconsideration of the parameters that define a valuable life. While hedonism offers a unidimensional metric—pleasure—Nozick's scenario suggests that individuals might evaluate life's worthiness based on multifactorial criteria, including truth, authenticity, and genuine interpersonal connections.
+
+In the context of contemporary technological advancements, especially in virtual reality and augmented experiences, Nozick's theoretical proposition presents tangible ethical and philosophical challenges. The distinction between simulated and genuine experiences becomes crucial in an era where these boundaries are increasingly malleable. The overarching question, then, is how to weigh and integrate these experiences to lead a life that is deemed meaningful and valuable.
+
+## Recent Thoughts : David Chalmers 
+
+Okay, so recently this philosopher, David Chalmers, wrote a book called *Reality+* and I am suspicious of it. I saw him speak about the book and it is mostly just public facing lower level defense of the idea that there is not really a distinction meaningfully to be made between real reality and artificial reality or virtual reality. The idea is that reality is what you experience, and so if you can be fully immersed, then what does it matter? The idea here is that for Chalmers is that the ultimate substance of the universe has two aspects, one is physical and one is informational. When we are immersed in a VW, fully that is, the information is what matters. The world as we experience it is informational--that is what experience is, on his view--so when we fully create a virtual world that contains all information the 'real' world contains, it simply no longer matters that the world before you is not the same physically, since it is the same informationally and that is all that should mattter, according to Chalmers. 
